@@ -2,7 +2,7 @@ export default {
 	mode: "spa",
 	target: "static",
 	router: {
-    base: '/frontendmentor/'
+    base: '/social-media-dashboard/'
   },
 	components: true,
 	buildModules: ["@nuxtjs/color-mode", "@nuxtjs/tailwindcss"],
